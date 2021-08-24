@@ -14,7 +14,9 @@ Função sumAll desenvolvida em PHP, Javascript e Dart.
 
 ## Para iniciar o Dart e o Javascript você deve conter ambos instalador nas maquina
 > Em Dart e Javascript utilizei readline para que possamos preencher os valores diretamente no cmd.
+
 > Inicie o .dart: dart dart/main.dart
+
 > Inicie o .js: node javascript/index.js
 
 

@@ -1,7 +1,7 @@
 import 'dart:io';
 
 // Crio a função nomeada sumAll
-int sumAll(val) {
+String sumAll(val) {
   val = int.parse(val);
   int sum = 0;
 
@@ -13,8 +13,11 @@ int sumAll(val) {
       sum += i;
     }
   }
-
-  return sum;
+  return "A soma de todos os números múltiplos por 5 e 3 menores que " +
+      val.toString() +
+      " é " +
+      sum.toString() +
+      ".";
 }
 
 void main() {

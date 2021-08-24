@@ -1,5 +1,5 @@
+// Importo o readline do javascript
 const readline = require("readline")
-
 const cmd = readline.createInterface({
     input: process.stdin,
     output: process.stdout,

@@ -32,5 +32,4 @@
         // Retorno o resultado da soma
         return $result;
     }
-
-
+?>

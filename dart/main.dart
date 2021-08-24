@@ -1,5 +1,6 @@
 import 'dart:io';
 
+// Crio a função nomeada sumAll
 int sumAll(val) {
   val = int.parse(val);
   int sum = 0;

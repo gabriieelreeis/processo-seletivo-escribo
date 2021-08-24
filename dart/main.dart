@@ -6,7 +6,7 @@ String sumAll(val) {
   int sum = 0;
 
   // Faço um loop até o valor informado
-  for (var i = 0; i < val; i++) {
+  for (int i = 0; i < val; i++) {
     // Verifico se o valor é dividendo por 3 ou 5
     if ((i % 3) == 0 || (i % 5) == 0) {
       // Caso o valor seja dividido acrescendo o valor atual do loop

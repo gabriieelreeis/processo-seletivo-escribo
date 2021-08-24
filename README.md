@@ -11,6 +11,8 @@ Função sumAll desenvolvida em PHP, Javascript e Dart.
 ## Para iniciar o PHP você deve ter instalado na maquina um servidor PHP local
 > Em PHP você deve passar uma requisição $_GET['val'] ao script para que ele possa retornar algum valor.
 
+> Ex: index.php?val=10
+
 
 ## Para iniciar o Dart e o Javascript você deve conter ambos instalador nas maquina
 > Em Dart e Javascript utilizei readline para que possamos preencher os valores diretamente no cmd.
